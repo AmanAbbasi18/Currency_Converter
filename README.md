@@ -22,7 +22,7 @@ A simple and interactive Currency Converter Web App that allows users to convert
 HTML5
 CSS3
 JavaScript (Vanilla JS)
-Exchange Rate API (if used)
+Exchange Rate API
 
 
 📦 Installation & Setup
@@ -44,6 +44,8 @@ double-click index.html
 
 No frameworks or backend needed.
 
+
+
 ▶️ How It Works
 
 User selects From Currency
@@ -56,8 +58,11 @@ JavaScript fetches exchange rate
 
 Converted amount is displayed instantly
 
+
+
 📸 Screenshots
 <img width="1366" height="621" alt="2025-12-01" src="https://github.com/user-attachments/assets/9729122e-9657-4333-99f6-79862fba4ac5" />
+<img width="1366" height="642" alt="2025-12-01 (9)" src="https://github.com/user-attachments/assets/db50e081-096a-47f0-9335-8768983300a6" />
 
 
 🤝 Contributing
